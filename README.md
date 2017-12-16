@@ -1,2 +1,4 @@
-# PFTA-FinalAssignment
-Final assignment of the course 'Python for Text Analysis'
+# Python for Text Analysis - Final Assignment
+
+## Setup
+    pip3 install -r requirements.txt
