@@ -102,4 +102,5 @@ ENV/
 
 # ADDED
 data/signalmedia*
+data/auto*
 .DS_STORE
