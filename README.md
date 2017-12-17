@@ -12,4 +12,4 @@
     2. Visualize with `visualize_data.ipynb`
     3. Text classification with `train_classifier.ipynb` (74.85%)
  * Scikit-learn feature extraction
-    1. Generate feature set and classify with `automatic_feature_extraction.ipynb` (76.25%)
+    1. Generate feature set and classify with `bag_of_words_model.ipynb` (76.25%)
