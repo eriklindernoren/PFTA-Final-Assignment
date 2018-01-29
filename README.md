@@ -13,9 +13,9 @@
 </i>
 
 ## Run  
- * Handcrafted features
-    1. Generate feature set with `notebooks/build_feature_set.ipynb`
-    2. Visualize with `notebooks/visualize_data.ipynb`
-    3. Text classification with `notebooks/text_classification.ipynb` (~75%)
+* Handcrafted features
+  1. Generate feature set with `notebooks/build_feature_set.ipynb`
+  2. Visualize with `notebooks/visualize_data.ipynb`
+  3. Text classification with `notebooks/text_classification.ipynb` (~75%)
  * Scikit-learn feature extraction
     1. Generate feature set and classify with `notebooks/bag_of_words_model.ipynb` (~75%)
